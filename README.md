@@ -1,2 +1,0 @@
-# IOM.com
-Tutorial rdp
